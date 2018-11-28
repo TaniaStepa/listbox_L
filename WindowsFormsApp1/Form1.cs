@@ -18,7 +18,7 @@ namespace WindowsFormsApp1
                 InitializeComponent();
             }
 
-            public string[] listData = { "КН-1801", "KН-1701", "КТ-1701", "ПС-1501" };
+            public string[] listData = { "КН-1801", "KН-1701", "КТ-1701", "ПС-1501", "КС-1506", "КС-1507" };
 
             private void Form1_Load(object sender, EventArgs e)
             {
